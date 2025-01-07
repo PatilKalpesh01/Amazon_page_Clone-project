@@ -1,1 +1,1 @@
-# Amazon_page_Clone-project
+# AmazonPage_Clone_basic_project
